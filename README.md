@@ -11,7 +11,7 @@ visit [releases](https://github.com/rvizx/wslnet/releases) to download the lates
 ```
 --help    - show help info and exit.
 --info    - shows information about the forwarded ports.
---reset   -   all     - reset previous port forwardings. (example : wslnet --reset all)
+--reset   -   all     - reset all previous port forwarding rules. (example : wslnet --reset all)
           -   <port>  - reset only the specified port. (example : wslnet --reset 9001)
 --forward - forward ports. ( example: wslnet.exe --forward 9001,7777,31337 )
 ```
