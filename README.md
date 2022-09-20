@@ -1,5 +1,5 @@
 # wslnet
-A simple tool to forward the TCP ports of WSL 2 services to the host OS
+A simple tool to forward the TCP ports of WSL2 services to the host OS
 
 ![alt text](https://github.com/rvizx/wslnet/blob/main/ss.png?raw=true)
 
