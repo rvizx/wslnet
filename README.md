@@ -3,7 +3,11 @@ A simple tool to forward the TCP ports of WSL 2 services to the host OS
 
 ![alt text](https://github.com/rvizx/wslnet/blob/main/ss.png?raw=true)
 
+
+visit [releases](https://github.com/rvizx/wslnet/releases) to download the latest version of wslnet.
+
 # usage
+
 ```
 --help    - show help info and exit.
 --info    - shows information about the forwarded ports.
